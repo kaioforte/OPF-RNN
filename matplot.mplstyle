@@ -1,0 +1,11 @@
+lines.linewidth : 3.5
+axes.labelsize  : 22
+xtick.labelsize : 22
+ytick.labelsize : 22
+legend.title_fontsize : 22
+legend.fontsize : 22
+legend.borderpad : 0.2
+legend.labelspacing : 0.3
+legend.borderaxespad : 0.2
+font.family : serif
+font.serif : times new roman
