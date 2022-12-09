@@ -1,0 +1,28 @@
+New linecode.condutor_89 nphases=4 basefreq=60 units=km 
+rmatrix=[0.948|0 0.948|0 0 0.948|0 0 0 0.948]
+xmatrix=[0.468|0 0.468|0 0 0.468|0 0 0 0.468]
+cmatrix=[0|0 0|0 0 0|0 0 0 0]
+New linecode.condutor_277 nphases=4 basefreq=60 units=km
+rmatrix=[0.64821|0 0.64821|0 0 0.64821|0 0 0 0.64821]
+xmatrix=[0.33773|0 0.33773|0 0 0.33773|0 0 0 0.33773]
+cmatrix=[0|0 0|0 0 0|0 0 0 0]
+New linecode.condutor_261 nphases=4 basefreq=60 units=km
+rmatrix=[0.00402|0 0.00402|0 0 0.00402|0 0 0 0.00402]
+xmatrix=[0.00276|0 0.00276|0 0 0.00276|0 0 0 0.00276]
+cmatrix=[0|0 0|0 0 0|0 0 0 0]
+New linecode.condutor_265 nphases=4 basefreq=60 units=km
+rmatrix=[1.03261|0 1.03261|0 0 1.03261|0 0 0 1.03261]
+xmatrix=[0.35668|0 0.35668|0 0 0.35668|0 0 0 0.35668]
+cmatrix=[0|0 0|0 0 0|0 0 0 0]
+New linecode.condutor_155 nphases=4 basefreq=60 units=km
+rmatrix=[0.00402|0 0.00402|0 0 0.00402|0 0 0 0.00402]
+xmatrix=[0.00276|0 0.00276|0 0 0.00276|0 0 0 0.00276]
+cmatrix=[0|0 0|0 0 0|0 0 0 0]
+New linecode.condutor_157 nphases=3 basefreq=60 units=km
+rmatrix=[0.00402|0 0.00402|0 0 0.00402]
+xmatrix=[0.00276|0 0.00276|0 0 0.00276]
+cmatrix=[0|0 0|0 0 0]
+New linecode.condutor_158 nphases=2 basefreq=60 units=km
+rmatrix=[0.00402|0 0.00402]
+xmatrix=[0.00276|0 0.00276]
+cmatrix=[0|0 0]

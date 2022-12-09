@@ -1,0 +1,59 @@
+//RUA ENG. LADISLAU//
+New Line.linha_A  phases=4 Bus1=barra3.1.2.3.0 Bus2=barra4.1.2.3.4 linecode=condutor_277 Length=0.03239 units=km
+New Line.linha_B  phases=4 Bus1=barra4.1.2.3.4 Bus2=barra5.1.2.3.4 linecode=condutor_277 Length=0.02361 units=km
+New Line.linha_C  phases=4 Bus1=barra5.1.2.3.4 Bus2=barra6.1.2.3.4 linecode=condutor_277 Length=0.02361 units=km
+New Line.linha_D phases=4  Bus1=barra5.1.2.3.4 Bus2=barra7.1.2.3.4 linecode=condutor_277 Length=0.02433 units=km
+New Line.linha_E phases=4  Bus1=barra7.1.2.3.4 Bus2=barra7a.1.2.3.4 linecode=condutor_277 Length=0.01686 units=km
+New Line.linha_Ea phases=4 Bus1=barra7a.1.2.3.4 Bus2=barra8.1.2.3.4 linecode=condutor_277 Length=0.01608 units=km
+New Line.linha_F phases=4  Bus1=barra8.1.2.3.4 Bus2=barra9.1.2.3.4 linecode=condutor_277 Length=0.02944 units=km
+New Line.linha_G phases=2  Bus1=barra9.2.4 Bus2=barra10.2.4    linecode=condutor_158 Length=0.01257 units=km
+New Line.linha_H phases=4  Bus1=barra9.1.2.3.4 Bus2=barra11.1.2.3.4 linecode=condutor_261 Length=0.02595 units=km
+New Line.linha_I phases=4  Bus1=barra3.1.2.3.4 Bus2=barra12.1.2.3.4 linecode=condutor_277 Length=0.01588 units=km
+New Line.linha_J phases=4  Bus1=barra12.1.2.3.4 Bus2=barra13.1.2.3.4 linecode=condutor_277 Length=0.02075 units=km
+New Line.linha_L phases=4  Bus1=barra13.1.2.3.4 Bus2=barra14.1.2.3.4 linecode=condutor_89 Length=0.03006 units=km
+
+//RUA ANGELO STRPAZON//
+New Line.linha_M phases=4  Bus1=barra12.1.2.3.4 Bus2=barra15.1.2.3.4 linecode=condutor_277 Length=0.03677 units=km
+New Line.linha_N phases=4  Bus1=barra15.1.2.3.4 Bus2=barra16.1.2.3.4 linecode=condutor_277 Length=0.02289 units=km
+New Line.linha_O phases=4  Bus1=barra16.1.2.3.4 Bus2=barra17.1.2.3.4 linecode=condutor_277 Length=0.0179 units=km
+New Line.linha_P phases=4  Bus1=barra17.1.2.3.4 Bus2=barra18.1.2.3.4 linecode=condutor_277 Length=0.03607 units=km
+New Line.linha_M1 phases=4 Bus1=barra12.1.2.3.4 Bus2=barra38.1.2.3.4 linecode=condutor_277 Length=0.04071 units=km
+New Line.linha_N1 phases=4 Bus1=barra38.1.2.3.4 Bus2=barra39.1.2.3.4 linecode=condutor_277 Length=0.03137 units=km
+New Line.linha_O1 phases=4 Bus1=barra39.1.2.3.4 Bus2=barra40.1.2.3.4 linecode=condutor_277 Length=0.03048 units=km
+New Line.linha_P1 phases=4 Bus1=barra40.1.2.3.4 Bus2=barra41.1.2.3.4 linecode=condutor_277 Length=0.00517 units=km
+New Line.linha_Q1 phases=4 Bus1=barra41.1.2.3.4 Bus2=barra42.1.2.3.4 linecode=condutor_277 Length=0.03158 units=km
+New Line.linha_R1 phases=4 Bus1=barra42.1.2.3.4 Bus2=barra43.1.2.3.4 linecode=condutor_89 Length=0.02282 units=km
+New Line.linha_S1 phases=4 Bus1=barra43.1.2.3.4 Bus2=barra44.1.2.3.4 linecode=condutor_89 Length=0.0376 units=km
+New Line.linha_T1 phases=4 Bus1=barra44.1.2.3.4 Bus2=barra45.1.2.3.4 linecode=condutor_89 Length=0.02747 units=km
+
+//RUA PROFA LUIZA COUTO//
+New Line.linha_Q phases=4 Bus1=barra18.1.2.3.4 Bus2=barra19.1.2.3.4 linecode=condutor_89 Length=0.02554 units=km
+New Line.linha_R phases=4 Bus1=barra19.1.2.3.4 Bus2=barra20.1.2.3.4 linecode=condutor_89 Length=0.04535 units=km
+New Line.linha_S phases=4 Bus1=barra20.1.2.3.4 Bus2=barra21.1.2.3.4 linecode=condutor_89 Length=0.04326 units=km
+New Line.linha_T phases=4 Bus1=barra21.1.2.3.4 Bus2=barra22.1.2.3.4 linecode=condutor_89 Length=0.04301 units=km
+New Line.linha_U phases=3 Bus1=barra22.1.2.4 Bus2=barra23.1.2.4 linecode=condutor_157 Length=0.01569 units=km
+New Line.linha_V phases=4 Bus1=barra22.1.2.3.4 Bus2=barra24.1.2.3.4 linecode=condutor_89 Length=0.0312 units=km
+New Line.linha_X phases=3 Bus1=barra24.1.2.4 Bus2=barra25.1.2.4 linecode=condutor_157 Length=0.01598 units=km
+
+//RUA ERNESTO MUTZEL FILHO//
+New Line.linha_Z phases=4 Bus1=barra21.1.2.3.4 Bus2=barra26.1.2.3.4 linecode=condutor_89 Length=0.0673 units=km
+New Line.linha_A1 phases=4 Bus1=barra26.1.2.3.4 Bus2=barra27.1.2.3.4 linecode=condutor_89 Length=0.03106 units=km
+New Line.linha_B1 phases=4 Bus1=barra27.1.2.3.4 Bus2=barra28.1.2.3.4 linecode=condutor_277 Length=0.03625 units=km
+New Line.linha_C1 phases=2 Bus1=barra28.2.4 Bus2=barra29.2.4 linecode=condutor_158 Length=0.02278 units=km
+New Line.linha_D1 phases=4 Bus1=barra28.1.2.3.4 Bus2=barra30.1.2.3.4 linecode=condutor_277 Length=0.02921 units=km
+New Line.linha_E1 phases=4 Bus1=barra30.1.2.3.4 Bus2=barra7a.1.2.3.4 linecode=condutor_277 Length=0.01607 units=km
+New Line.linha_E1a phases=4 Bus1=barra7a.1.2.3.4 Bus2=barra31.1.2.3.4 linecode=condutor_277 Length=0.01275 units=km
+New Line.linha_F1 phases=4 Bus1=barra30.1.2.3.4 Bus2=barra32.1.2.3.4 linecode=condutor_277 Length=0.05524 units=km
+New Line.linha_G1 phases=4 Bus1=barra32.1.2.3.4 Bus2=barra33.1.2.3.4 linecode=condutor_277 Length=0.0321 units=km
+New Line.linha_H1 phases=4 Bus1=barra33.1.2.3.4 Bus2=barra34.1.2.3.4 linecode=condutor_89 Length=0.02628 units=km
+New Line.linha_I1a phases=4 Bus1=barra34.1.2.3.4 Bus2=barra47a.1.2.3.4 linecode=condutor_89 Length=0.0120 units=km
+New Line.linha_I1 phases=4 Bus1=barra47a.1.2.3.4 Bus2=barra35.1.2.3.4 linecode=condutor_89 Length=0.02131 units=km
+New Line.linha_J1 phases=4 Bus1=barra35.1.2.3.4 Bus2=barra36.1.2.3.4 linecode=condutor_265 Length=0.04723 units=km
+New Line.linha_L1 phases=4 Bus1=barra36.1.2.3.4 Bus2=barra37.1.2.3.4 linecode=condutor_265 Length=0.03466 units=km
+
+//RUA PAULO KLEMANN//
+New Line.linha_U1 phases=4 Bus1=barra41.1.2.3.4 Bus2=barra46.1.2.3.4 linecode=condutor_89 Length=0.03703 units=km
+New Line.linha_V1 phases=4 Bus1=barra46.1.2.3.4 Bus2=barra47.1.2.3.4 linecode=condutor_89 Length=0.03309 units=km
+New Line.linha_X1 phases=4 Bus1=barra47.1.2.3.4 Bus2=barra47a.1.2.3.4 linecode=condutor_89 Length=0.04439 units=km
+New Line.linha_X1a phases=4 Bus1=barra47a.1.2.3.4 Bus2=barra48.1.2.3.4 linecode=condutor_89 Length=0.01574 units=km
+New Line.linha_Z1 phases=4 Bus1=barra48.1.2.3.4 Bus2=barra49.1.2.3.4 linecode=condutor_89 Length=0.04344 units=km

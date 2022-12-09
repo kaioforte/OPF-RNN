@@ -1,0 +1,36 @@
+clear
+
+New circuit.Circuito_exemplo phases=3 basekv=23 pu=1.035 basemva=100 bus1=barra100.1.2.3 puZ1=[0.23449,0.7094] 
+
+New transformer.TRAFOA xhl=4 windings=2 %loadloss=2.02 %noloadloss=0.41
+wdg=1 bus=barra100 conn=delta kv=23 kva=112.5
+wdg=2 bus=barra3.1.2.3.0 conn=wye kv=0.380 kva=112.5
+
+
+// LINES//
+Redirect Linecodes.dss
+Redirect Lines.dss
+// Redirect loadshapes.dss
+Redirect Loads_1kva.dss
+
+/*
+New Monitor.Mon_Storage1_Powers element=transformer.TRAFOA mode=1 ppolar=No
+New Monitor.circuit_voltages element=Line.linha_T terminal=1 mode=0
+
+New EnergyMeter.Meter_Powers element=transformer.TRAFOA
+New Monitor.Mon_Powers element=transformer.TRAFOA  mode=1 ppolar=No
+New Monitor.Mon_Voltages element=Line.linha_A terminal=1 mode=0
+*/
+ 
+Set voltagebases = [23 0.220 0.380]
+Calcvoltagebases
+
+/*
+Set mode=daily
+Set number=144
+Set stepsize=10m
+
+
+Plot Monitor object=Mon_Storage1_Powers channels=(1 3 5)
+Plot monitor object= circuit_voltages channels=(1 3 5 ) bases=[220 220 220]
+*/
