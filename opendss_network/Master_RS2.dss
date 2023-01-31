@@ -11,7 +11,7 @@ wdg=2 bus=barra3.1.2.3.0 conn=wye kv=0.380 kva=112.5
 Redirect Linecodes.dss
 Redirect Lines.dss
 // Redirect loadshapes.dss
-Redirect Loads_1kva.dss
+Redirect Loads_without_kva.dss
 
 /*
 New Monitor.Mon_Storage1_Powers element=transformer.TRAFOA mode=1 ppolar=No
